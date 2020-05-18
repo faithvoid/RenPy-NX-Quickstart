@@ -1,3 +1,3 @@
-To generate NACP file: '/opt/devkitpro/tools/bin/nacptool' --create "GAME" "AUTHORS" "VER" GAME.NACP // Replace GAME/AUTHOR/VERSION accordingly.
+To generate NACP file: nacptool --create "GAME" "AUTHORS" "VER" GAME.NACP // Replace GAME/AUTHOR/VERSION accordingly.
 
-To convert .elf to NRO:  '/opt/devkitpro/tools/bin/elf2nro' renpy-switch.elf GAME.nro --icon=icon.jpg --nacp=GAME.NACP --romfsdir=romfs
+To convert .elf to NRO:  elf2nro renpy-switch.elf GAME.nro --nacp=GAME.NACP --romfsdir=romfs // Replace GAME with your project, you can optionally add a 256x256 .jpg icon with --icon=ICON.jpg
