@@ -1,5 +1,5 @@
 # RenPy-NX-Quickstart
-Quick folder layout / shortcut guide to optimize build time for Ren'Py Switch ports. This repository probably won't be updated frequently, so if something breaks, check if there's an update and replace the files accordingly. 
+Quick folder layout / shortcut guide to optimize build time for single-file .nro Ren'Py Switch ports. This repository probably won't be updated frequently, so if something breaks, check if there's an update and replace the files accordingly. 
 
 ## How to use:
 - Extract either code (missing renpy-switch.elf) or release .zip (includes renpy-switch.elf) to your folder of choice.
