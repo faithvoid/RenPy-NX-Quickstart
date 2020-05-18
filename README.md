@@ -2,7 +2,7 @@
 Quick folder layout / shortcut guide to optimize build time for single-file .nro Ren'Py Switch ports. This repository probably won't be updated frequently, so if something breaks, check if there's an update and replace the files accordingly. 
 
 ## Dependencies:
-DevKitPro with Switch libraries.
+DevKitPro with Switch libraries (probably, if it's feasible I'll include a standalone "bin" folder with nacptool and elf2nro).
 
 ## How to use:
 - Extract either code (missing renpy-switch.elf) or release .zip (includes renpy-switch.elf) to your folder of choice.
